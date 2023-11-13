@@ -1,7 +1,6 @@
 #include"ch.h"
 
 
-
 void ch::init(std::string _name, double _x, double _y)
 {
     name = _name;
