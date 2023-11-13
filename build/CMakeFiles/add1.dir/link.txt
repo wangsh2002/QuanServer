@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/add1.dir/ch.cpp.o CMakeFiles/add1.dir/main.cpp.o CMakeFiles/add1.dir/net.cpp.o CMakeFiles/add1.dir/round.cpp.o  -o add1 
