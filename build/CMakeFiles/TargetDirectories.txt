@@ -1,5 +1,0 @@
-/home/ubuntu/quanServer/build/CMakeFiles/edit_cache.dir
-/home/ubuntu/quanServer/build/CMakeFiles/package_source.dir
-/home/ubuntu/quanServer/build/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/quanServer/build/CMakeFiles/package.dir
-/home/ubuntu/quanServer/build/CMakeFiles/add1.dir
